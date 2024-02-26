@@ -69,7 +69,7 @@ bbn= Bbn() \
   .add_edge(Edge(W,RT, EdgeType.DIRECTED))
 
 join_tree =InferenceController.apply(bbn)
-pos={0: (-1,2), 1: (-1, 0.5), 2: (1, 0.5), 3:(0,-1)}
+pos={0: (-1,1), 1: (-1, 0.5), 2: (1, 0), 3:(0,-0.5)}
 options ={
 "font_size": 16,
 "node_size": 4000,
@@ -142,7 +142,7 @@ bbn = Bbn() \
 # Convert the BBN to a join tree
 join_tree = InferenceController.apply(bbn)
 # Set node positions
-pos = {0: (-1, -2), 1: (-1, 0.5), 2: (1, 0.5), 3: (0, -1)}
+pos = {0: (-1,1), 1: (-1, 0.5), 2: (1, 0), 3:(0,-0.5)}
 
 # Set options for graph looks
 options = {
