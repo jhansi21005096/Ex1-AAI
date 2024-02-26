@@ -167,10 +167,10 @@ plt.show()
 ## Output:
 ![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/outa.png)
 ![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/outb.png)
-![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/outc.png)
+![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/outc.a.png)
 ![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/outd.png)
 ![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/oute.png)
-![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/outf.png)
+![output](https://github.com/jhansi21005096/Ex1-AAI/blob/main/outf.a.png)
 
 ## Result:
    Thus a Bayesian Network is generated using Python
